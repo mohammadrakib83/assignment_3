@@ -1,0 +1,120 @@
+*{
+   margin: 0;
+   padding: 0;
+
+}
+header{
+    height: 50px;
+    background-color: orangered;
+    color: white;
+    text-align: center;
+}
+.banner{
+    background-color: greenyellow;
+    color: white;
+    height: 150px;
+    text-align: center;
+
+}
+.main_section{
+    display: flex;
+    height: 500px;
+    background-color: brown;
+
+}
+.left_box{
+     background-color: burlywood;
+     width: 20%;
+     color: blue;
+     text-align: center;
+     
+
+}
+.top{
+  height: 50%;
+  background-color: goldenrod;
+  text-align: center;
+  color: #f0f8ff;
+
+}
+.button{
+     height: 50%;
+     background-color: rgb(0, 139, 93);
+     text-align: center;
+     color: #f0f8ff;
+}
+     .center_box{
+     background-color: black;
+     width: 60%;
+     color: aliceblue;
+     text-align: center;
+     font-size: 30px;
+}
+.top_center{
+    height:33.33% ;
+    background-color: red;
+    color: white;
+    text-align: center;
+
+}
+.middle{
+        height:33.33% ;
+        background-color: pink;
+        color: white;
+        text-align: center;
+        display: flex;
+
+  }
+  .left_middle{
+         width: 50%;
+         background-color: blueviolet;
+         color: white;
+         text-align: center;
+
+  }
+  .right_middle{
+    width: 50%;
+    background-color:pink ;
+    color: white;
+    text-align: center;
+
+
+
+
+  }
+  .center_button{
+        height:33.33% ;
+        background-color:yellow
+        color(srgb red green blue)
+        
+  }
+
+
+.right_box{
+     display: flex;
+     background-color: aqua;
+     width: 20%;
+     color: white;
+     text-align: center;
+     font-size: 30px;
+}
+.top_right{
+    display: flex;
+     width: 50%;
+     background-color: magenta;
+     color: black;
+     text-align: center;
+}
+.button_right{
+    width: 50%;
+    background-color: rgb(132, 0, 255);
+    color: white;
+    text-align: center;
+
+}
+footer{
+    background-color: rgb(50, 174, 205);
+    color: black;
+    height: 100px;
+    text-align: center;
+}

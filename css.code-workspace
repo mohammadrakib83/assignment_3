@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../class project layout 2/css"
+		},
+		{
+			"path": "../class project layout 2/Image"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "css"
+	}
+}
